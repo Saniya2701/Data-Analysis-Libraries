@@ -36,4 +36,5 @@ plt.scatter(x, y, color='red')
 plt.title("Scatter Plot")
 plt.xlabel("X-axis")
 plt.ylabel("Y-axis")
+
 plt.show()
