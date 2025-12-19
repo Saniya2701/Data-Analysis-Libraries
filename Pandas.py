@@ -33,4 +33,5 @@ print(df)
 new_row = {'Name': 'Meena', 'Age': 21, 'Marks': 84, 'City': 'Chennai', 'Result': 'Fail'}
 df.loc[len(df)] = new_row
 print("\nAfter adding new row:")
+
 print(df)
